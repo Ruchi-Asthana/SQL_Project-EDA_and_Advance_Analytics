@@ -1,4 +1,4 @@
-# SQL | Exploratory Data Analysis (EDA) | Advance Analytics
+# SQL Project | Exploratory Data Analysis (EDA) | Advance Analytics
 ## Project Overview
 This project analyses customers, products and sales data in two stages: 
 First, we perform an EDA which is the initial investigation phase of the data where we explore the database, dimensions, measures and perform 
@@ -37,7 +37,8 @@ Step 4: Measures Exploration (Calculating the key metrics of the business)
 * Generate a report that shows all key metrics of the business.
 
 
-Step 5: Magnitude Analysis
+Step 5: Magnitude Analysis (Comparing the measure values across different categories and dimensions, helps us in understanding the importance of different categories)
+
 
 
 
