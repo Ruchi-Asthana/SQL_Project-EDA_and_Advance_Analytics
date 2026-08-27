@@ -92,9 +92,9 @@ Step 11: Data Segmentation
   * Regular: At least 12 months of history but spending 5000 euros or less.
   * New: Lifespan less than 12 months
   * And find the total number of customers by each group.
-## Reporting
-Customer Report
+## Customer Report
 
+<img width="1700" height="900" alt="Customer_report_ss" src="https://github.com/user-attachments/assets/2808dede-1255-4104-aebf-8d3a30a98430" />
 
 Purpose: Create an SQL VIEW to provide customer insights.
 * This report consolidates key customer metrics and behaviours:
@@ -111,7 +111,8 @@ Purpose: Create an SQL VIEW to provide customer insights.
 		- recency (months since last order)
         - average order value (AOV)
         - average monthly spend
-       
+ ## Product Report
+ 
 
 
 
