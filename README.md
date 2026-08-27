@@ -100,13 +100,13 @@ Purpose: Create an SQL VIEW to provide customer insights.
   * 1. Gathers essential fields such as names, ages, transactions details.
     2. Segments customers into categories (VIP, Regular, New) and age groups.
     3. Aggregates customer-level metrics:
-		  - total orders
+      - total orders
       - total sales
       - total quantity purchased
       - total products
       - lifespan (in months)
 	  4. Calculates valuable KPIs:
-		  - recency (months since last order)
+		- recency (months since last order)
         - average order value (AOV)
         - average monthly spend
        
