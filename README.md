@@ -9,6 +9,8 @@ Finally we build a customer and a product report in the form of two SQL Views, h
 Step 1: Database Exploration
 * Exploring the meta data or structure of the database.
 * Exploring all columns in the database for metadata information.
+
+
 Step 2: Dimensions Exploration (Identifying the unique values or categories in each dimension)
 * Exploring all countries our customers come from.
 * Exploring all product categories (the major divisions).
@@ -16,6 +18,8 @@ Step 2: Dimensions Exploration (Identifying the unique values or categories in e
 * We have 4 product categories, 36 subcategories and 295 unique products.
 * Low Cardinality Dimensions (dimensions with fewer unique values): Country, Gender, Category, ...
 * High Cardinality Dimensions (Dimensions with large number of unique values): customer, product, address, ...
+
+
 Step 3: Date Exploration
 
 
