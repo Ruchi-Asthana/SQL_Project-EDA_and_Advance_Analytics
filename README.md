@@ -94,7 +94,7 @@ Step 11: Data Segmentation
   * And find the total number of customers by each group.
 ## Customer Report
 
-<img width="1700" height="900" alt="Customer_report_ss" src="https://github.com/user-attachments/assets/2808dede-1255-4104-aebf-8d3a30a98430" />
+<img width="1900" height="900" alt="Customer_report_ss" src="https://github.com/user-attachments/assets/2808dede-1255-4104-aebf-8d3a30a98430" />
 
 Purpose: Create an SQL VIEW to provide customer insights.
 * This report consolidates key customer metrics and behaviours:
