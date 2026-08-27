@@ -65,7 +65,7 @@ Step 7: Changes Over Time Analysis
   * Total sales generated every year.
   * Total sales, customers and quantity sold over the years.
 * Analysing seasonality of our sales data (performance by month regardless of the years).
-  * Changes over months gives detailed insights to discover seasonality in the data.
+  * Changes over months give detailed insights to discover seasonality in the data.
   * to understand which months in any sales year are high / low performing.
   * The best performing month is December owing to the holiday season.
   * February is the worst performing month.
