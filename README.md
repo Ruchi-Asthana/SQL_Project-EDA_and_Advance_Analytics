@@ -57,6 +57,62 @@ Step 6: Ranking Analysis (Ordering the values of a dimension by a measure in ord
 * Rank the Top 10 customers who have generated the highest revenue.
 * Find the 3 customers with the fewest orders placed.
 ## Advance Analytics
+Step 7: Changes Over Time Analysis
+* Technique to analyse how a measure evolves over time.
+* Helps track trends and identify seasonality in the data.
+* Analyse Performance over time:
+  * Total sales generated everyday (the granularity of our data is day).
+  * Total sales generated every year.
+  * Total sales, customers and quantity sold over the years.
+* Analysing seasonality of our sales data (performance by month regardless of the years).
+  * Changes over months gives detailed insights to discover seasonality in the data.
+  * to understand which months in any sales year are high / low performing.
+  * The best performing month is December owing to the holiday season.
+  * February is the worst performing month.
+* Changes over months year-wise.
+
+
+Step 8: Cumulative Analysis (Aggregating the data progressively over time, helps to understand whether our business is growing or declining)
+* Calculate the total sales per month and the running total of sales over time.
+* Calculating moving average of price over time.
+
+
+Step 9: Performance Analysis
+* Analyse the yearly performance of products by comparing each product's sales to both its average sales performance and the previous year's sales.
+
+
+Step 10: Part-to-whole (Proportional) Analysis
+* Which categories contribute the most to the overall sales?
+
+
+Step 11: Data Segmentation
+* Segment products into cost ranges and count how many products fall into each segment.
+* Group customers into three segments based on their spending behaviour:
+  * VIP: At least 12 months of history and spending more than 5000 euros.
+  * Regular: At least 12 months of history but spending 5000 euros or less.
+  * New: Lifespan less than 12 months
+  * And find the total number of customers by each group.
+## Reporting
+Customer Report
+Purpose: Create an SQL VIEW to provide customer insights.
+* This report consolidates key customer metrics and behaviours:
+* Highlights:
+  * 1. Gathers essential fields such as names, ages, transactions details.
+    2. Segments customers into categories (VIP, Regular, New) and age groups.
+    3. Aggregates customer-level metrics:
+		  - total orders
+      - total sales
+      - total quantity purchased
+      - total products
+      - lifespan (in months)
+	  4. Calculates valuable KPIs:
+		  - recency (months since last order)
+        - average order value (AOV)
+        - average monthly spend
+       
+
+
+
 
 
 
