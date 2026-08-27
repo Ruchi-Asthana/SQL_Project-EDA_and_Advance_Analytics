@@ -21,5 +21,23 @@ Step 2: Dimensions Exploration (Identifying the unique values or categories in e
 
 
 Step 3: Date Exploration
+* Identifying the earliest and the latest order dates (boundaries of the dates in the dataset) 
+and scope of the data (timespan of our business).
+* Finding the youngest and the oldest customers.
+
+
+Step 4: Measures Exploration (Calculating the key metrics of the business)
+* Find the total sales.
+* How many items are sold?
+* Find the average selling price.
+* Find the total number of orders.
+* Find the total number of products.
+* Find the total number of customers.
+* Find the total number of customers that have placed an order.
+* Generate a report that shows all key metrics of the business.
+
+
+Step 5: Magnitude Analysis
+
 
 
